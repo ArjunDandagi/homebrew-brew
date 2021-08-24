@@ -1,4 +1,4 @@
-class Dirtouch < Formula
+class DirtouchAT1 < Formula
   desc "dirtouch = mkdir -p + touch "
   homepage "https://github.com/ArjunDandagi"
   url "https://github.com/ArjunDandagi/dirtouch/releases/download/1.0.0/dirtouch-1.0.0-darwin-amd64.zip"
