@@ -1,4 +1,4 @@
-class Dirtouch < Formula
+class DirtouchAT2 < Formula
   desc "dirtouch = mkdir -p + touch "
   homepage ""
   url "https://github.com/ArjunDandagi/dirtouch/archive/refs/tags/latest.zip"
