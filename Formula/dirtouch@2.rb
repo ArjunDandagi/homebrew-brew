@@ -9,6 +9,6 @@ class DirtouchAT2 < Formula
   end
 
   test do
-    system dirtouch
+    system "dirtouch"
   end
 end
