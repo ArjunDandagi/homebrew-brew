@@ -9,7 +9,7 @@ class DirtouchAT1 < Formula
 
   def install
     bin.install "dirtouch"
-  end   
+  end
 
   test do
     # `test do` will create, run in and delete a temporary directory.
