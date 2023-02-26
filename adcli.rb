@@ -5,7 +5,6 @@
 class Adcli < Formula
   desc ""
   homepage "https://github.com/arjundandagi/adcli"
-  version "2.0.0"
 
   on_macos do
     if Hardware::CPU.arm?
